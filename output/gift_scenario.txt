@@ -1,0 +1,86 @@
+
+  $CATEGORY: $course$/top/Exam_scenario
+
+  // question_Covid_Positive_Case_Tracker
+  ::exam_file_Covid_Positive_Case_Tracker::  <p/><p/><h3>Informatics B final Exam - Database Scenario</h3>
+  The following is a scenario that you have been randomly assigned.
+Copy this scenario into your Final Exam Questions Document,
+and answer questions in your exam related to this scenario.
+<hr>
+<h3>Scenario</h3>
+You work for a covid tracking and testing service.  People get tested for covid at a location, and the test sample is sent to a lab. The lab reports if the test is positive or negative.  Negative results are sent to patient by text message, while positive results are interviewed and quarantined.  People who test positive are contacted multiple times during their quarantine period, acertaining their location.  You need to record test date, test location, test lab, test result, tested person name, tested person phone, tested person phone, staff name and id, contact date and purpose, recording all interaction between staff and people who get tested.
+<hr>
+<br/>
+<br/>
+Did you copy your scenario to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+  $CATEGORY: $course$/top/Exam_scenario
+
+  // question_Covid_contact_tracer
+  ::exam_file_Covid_contact_tracer::  <p/><p/><h3>Informatics B final Exam - Database Scenario</h3>
+  The following is a scenario that you have been randomly assigned.
+Copy this scenario into your Final Exam Questions Document,
+and answer questions in your exam related to this scenario.
+<hr>
+<h3>Scenario</h3>
+You work for a covid tracking and testing service.  You need to contact the close contacts of people who test positive for covid.  People who test positive (PP) are interviewed, gathering name, mobile phone, date of birth.  PP also provide the same information for each person they had contact with over the past 5 days, and these people are also contacted.  Additionally, we record the location and date/time of every place PP visited over the past 5 days.  Finally, we track the staff who did both the original interview and who called close contacts.  You need to store PP name, date of birth and phone number, close contact name and phone number, staff name and staff id.  You also need to store the date and time of interaction between PP and their close contacts, and the date and time of interaction between staff and all clients, and the date and location of PP visits.
+<hr>
+<br/>
+<br/>
+Did you copy your scenario to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+  $CATEGORY: $course$/top/Exam_scenario
+
+  // question_Covid_test_lab
+  ::exam_file_Covid_test_lab::  <p/><p/><h3>Informatics B final Exam - Database Scenario</h3>
+  The following is a scenario that you have been randomly assigned.
+Copy this scenario into your Final Exam Questions Document,
+and answer questions in your exam related to this scenario.
+<hr>
+<h3>Scenario</h3>
+You work in a covid testing lab.  Samples come into the lab, and they are tested for covid.  If the test is positive, the results are compared to a set of standard genetic samples, which allows tracing the genetic origin (GO).  Positive tests are reported to the DHHS, to the patient's family doctor (GP), and to the patient themselves.  You need to record the test date, and tested person (TP) name, TP mobile, TP email, test result , GP name, GP email address,  covid strain name, covid strain origin, and the date and time of all reporting transactions
+<hr>
+<br/>
+<br/>
+Did you copy your scenario to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+  $CATEGORY: $course$/top/Exam_scenario
+
+  // question_Covid_Emergency_Department_(ED)_admission
+  ::exam_file_Covid_Emergency_Department_(ED)_admission::  <p/><p/><h3>Informatics B final Exam - Database Scenario</h3>
+  The following is a scenario that you have been randomly assigned.
+Copy this scenario into your Final Exam Questions Document,
+and answer questions in your exam related to this scenario.
+<hr>
+<h3>Scenario</h3>
+Potential Covid cases come into ED, and they are isolated away from the main waiting room.  Their details are taken (name, mobile) are they assigned a number in the queue, based on their urgency (a scale of 1-10) and their time of arrival. A doctor sees them, and they are tested for covid.  If their symptoms warrant, they are admitted.  You have to design a system to track this, storing date, time and nature of all the interactions (arrival at hospital, doctor visit, covid test, possible admission)
+<hr>
+<br/>
+<br/>
+Did you copy your scenario to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}

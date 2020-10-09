@@ -1,0 +1,5398 @@
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Care_Type^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Interpreter_Required^Onset_Date
+::exam_file_ACAS_Status^Care_Type^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Interpreter_Required^Onset_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Interpreter Required</li>
+<li>Onset Date</li>
+<li>Care Type</li>
+<li>ACAS Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Admission_Weight^Criterion_for_Admission^Date_of_Birth^FIM_Score_on_Admission_(a)
+::exam_file_Admission_Time^Admission_Weight^Criterion_for_Admission^Date_of_Birth^FIM_Score_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Weight</li>
+<li>Admission Time</li>
+<li>FIM Score on Admission (a)</li>
+<li>Date of Birth</li>
+<li>Criterion for Admission</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Date_of_Birth_Accuracy^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Indigenous_Status^Patient_Days_Total
+::exam_file_ACAS_Status^Date_of_Birth_Accuracy^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Indigenous_Status^Patient_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Patient Days Total</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Indigenous Status</li>
+<li>Date of Birth Accuracy</li>
+<li>ACAS Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Final_Phase_of_Care_(b)^Functional_Assessment_Date_on_Separation_(b)^Hospital_Insurance_Status^Surname^Transfer_Destination
+::exam_file_Final_Phase_of_Care_(b)^Functional_Assessment_Date_on_Separation_(b)^Hospital_Insurance_Status^Surname^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Final Phase of Care (b)</li>
+<li>Transfer Destination</li>
+<li>Surname</li>
+<li>Hospital Insurance Status</li>
+<li>Functional Assessment Date on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Contract/Spoke_Identifier^Hospital_Generated_DRG^Patient_Identifier^Separation_Mode
+::exam_file_Account_Class_(a)^Contract/Spoke_Identifier^Hospital_Generated_DRG^Patient_Identifier^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Account Class (a)</li>
+<li>Contract/Spoke Identifier</li>
+<li>Hospital Generated DRG</li>
+<li>Patient Identifier</li>
+<li>Separation Mode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_FIM_Score_on_Separation_(b)^Functional_Assessment_Date_on_Separation_(b)^Patient_Days_Financial_Year-to-Date^Separation_Time^Transfer_Destination
+::exam_file_FIM_Score_on_Separation_(b)^Functional_Assessment_Date_on_Separation_(b)^Patient_Days_Financial_Year-to-Date^Separation_Time^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Patient Days Financial Year-to-Date</li>
+<li>FIM Score on Separation (b)</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Separation Time</li>
+<li>Transfer Destination</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Source^Contract_Role^Hospital_Insurance_Status^Marital_Status^Mental_Health_Legal_Status
+::exam_file_Admission_Source^Contract_Role^Hospital_Insurance_Status^Marital_Status^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health Legal Status</li>
+<li>Hospital Insurance Status</li>
+<li>Marital Status</li>
+<li>Admission Source</li>
+<li>Contract Role</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^FIM_Score_on_Admission_(a)^Leave_without_Permission_Days_Month-to-Date^Leave_without_Permission_Days_Total^Transfer_Source
+::exam_file_Contract_Type^FIM_Score_on_Admission_(a)^Leave_without_Permission_Days_Month-to-Date^Leave_without_Permission_Days_Total^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Admission (a)</li>
+<li>Contract Type</li>
+<li>Transfer Source</li>
+<li>Leave without Permission Days Month-to-Date</li>
+<li>Leave without Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Duration_of_Mechanical_Ventilation_in_ICU^Duration_of_Stay_in_Intensive_Care_Unit^Intended_Duration_of_Stay^Program_Identifier
+::exam_file_Contract_Type^Duration_of_Mechanical_Ventilation_in_ICU^Duration_of_Stay_in_Intensive_Care_Unit^Intended_Duration_of_Stay^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Intended Duration of Stay</li>
+<li>Contract Type</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Program Identifier</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Advanced_Care_Plan_Alert^Funding_Arrangement^Leave_with_Permission_Days_Financial_Year-to-Date^Leave_with_Permission_Days_Month-to-Date^Postcode
+::exam_file_Advanced_Care_Plan_Alert^Funding_Arrangement^Leave_with_Permission_Days_Financial_Year-to-Date^Leave_with_Permission_Days_Month-to-Date^Postcode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Advanced Care Plan Alert</li>
+<li>Funding Arrangement</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Postcode</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^Admission_Type^Hospital_Generated_DRG^Medicare_Number^Mental_Health_State_Wide_Patient_Identifier
+::exam_file_Accommodation_Type_(a)^Admission_Type^Hospital_Generated_DRG^Medicare_Number^Mental_Health_State_Wide_Patient_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Type</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Medicare Number</li>
+<li>Hospital Generated DRG</li>
+<li>Accommodation Type (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Country_of_Birth_(SACC_code_set)^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Medicare_Suffix^Patient_Days_Total
+::exam_file_Contract_Type^Country_of_Birth_(SACC_code_set)^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Medicare_Suffix^Patient_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Medicare Suffix</li>
+<li>Contract Type</li>
+<li>Patient Days Total</li>
+<li>Country of Birth (SACC code set)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Date_of_Birth^FIM_Score_on_Admission_(a)^Given_Name(s)^Patient_Days_Financial_Year-to-Date
+::exam_file_Contract_Type^Date_of_Birth^FIM_Score_on_Admission_(a)^Given_Name(s)^Patient_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Admission (a)</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Given Name(s)</li>
+<li>Date of Birth</li>
+<li>Contract Type</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Admission_Source^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^FIM_Score_on_Separation_(b)^Procedure_Start_Date_Time
+::exam_file_Account_Class_(a)^Admission_Source^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^FIM_Score_on_Separation_(b)^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Separation (b)</li>
+<li>Admission Source</li>
+<li>Procedure Start Date Time</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+<li>Account Class (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Leave_without_Permission_Days_Total^Marital_Status^Separation_Date^Separation_Referral
+::exam_file_Admission_Type^Leave_without_Permission_Days_Total^Marital_Status^Separation_Date^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Date</li>
+<li>Admission Type</li>
+<li>Separation Referral</li>
+<li>Leave without Permission Days Total</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Birth^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Preferred_Language^Surname^Transfer_Destination
+::exam_file_Date_of_Birth^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Preferred_Language^Surname^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Preferred Language</li>
+<li>Transfer Destination</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Surname</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Carer_Availability^Clinical_group^Impairment^Transfer_Destination
+::exam_file_Accommodation_Type_on_Separation_(b)^Carer_Availability^Clinical_group^Impairment^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Impairment</li>
+<li>Clinical group</li>
+<li>Carer Availability</li>
+<li>Transfer Destination</li>
+<li>Accommodation Type on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Duration_of_Stay_in_Intensive_Care_Unit^Leave_with_Permission_Days_Financial_Year-to-Date^Onset_Date^Program_Identifier
+::exam_file_Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Duration_of_Stay_in_Intensive_Care_Unit^Leave_with_Permission_Days_Financial_Year-to-Date^Onset_Date^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Program Identifier</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Onset Date</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^Date_of_Birth_Accuracy^Functional_Assessment_Date_on_Admission_(a)^Impairment^Separation_Mode
+::exam_file_Accommodation_Type_(a)^Date_of_Birth_Accuracy^Functional_Assessment_Date_on_Admission_(a)^Impairment^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Mode</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Date of Birth Accuracy</li>
+<li>Accommodation Type (a)</li>
+<li>Impairment</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Leave_with_Permission_Days_Financial_Year-to-Date^Mother’s_UR^Separation_Referral^Unique_Key
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Leave_with_Permission_Days_Financial_Year-to-Date^Mother’s_UR^Separation_Referral^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Mother’s UR</li>
+<li>Separation Referral</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Unique Key</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Clinical_group^FIM_Score_on_Admission_(a)^Indigenous_Status^Indigenous_Status
+::exam_file_ACAS_Status^Clinical_group^FIM_Score_on_Admission_(a)^Indigenous_Status^Indigenous_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Clinical group</li>
+<li>FIM Score on Admission (a)</li>
+<li>Indigenous Status</li>
+<li>ACAS Status</li>
+<li>Indigenous Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Plan_Documented_Date^Contract/Spoke_Identifier^Functional_Assessment_Date_on_Separation_(b)^Phase_of_Care_on_Admission_(a)^Transfer_Source
+::exam_file_Care_Plan_Documented_Date^Contract/Spoke_Identifier^Functional_Assessment_Date_on_Separation_(b)^Phase_of_Care_on_Admission_(a)^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Contract/Spoke Identifier</li>
+<li>Phase of Care on Admission (a)</li>
+<li>Care Plan Documented Date</li>
+<li>Transfer Source</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Type^Final_Phase_of_Care_(b)^Medicare_Suffix^Mental_Health_State_Wide_Patient_Identifier^Patient_Days_Total
+::exam_file_Care_Type^Final_Phase_of_Care_(b)^Medicare_Suffix^Mental_Health_State_Wide_Patient_Identifier^Patient_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Medicare Suffix</li>
+<li>Care Type</li>
+<li>Patient Days Total</li>
+<li>Final Phase of Care (b)</li>
+<li>Mental Health State Wide Patient Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Funding_Arrangement^Impairment^Onset_Date^Program_Identifier
+::exam_file_Admission_Time^Funding_Arrangement^Impairment^Onset_Date^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Funding Arrangement</li>
+<li>Onset Date</li>
+<li>Impairment</li>
+<li>Program Identifier</li>
+<li>Admission Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Campus_Code^Diagnosis_Codes^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit
+::exam_file_Accommodation_Type_on_Separation_(b)^Campus_Code^Diagnosis_Codes^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Campus Code</li>
+<li>Accommodation Type on Separation (b)</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Diagnosis Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Plan_Documented_Date^Onset_Date^Program_Identifier^Program_Identifier^Unique_Key
+::exam_file_Care_Plan_Documented_Date^Onset_Date^Program_Identifier^Program_Identifier^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Care Plan Documented Date</li>
+<li>Onset Date</li>
+<li>Program Identifier</li>
+<li>Unique Key</li>
+<li>Program Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract/Spoke_Identifier^Leave_without_Permission_Days_Total^Phase_of_Care_on_Admission_(a)^Phase_of_Care_on_Admission_(a)^Program_Identifier
+::exam_file_Contract/Spoke_Identifier^Leave_without_Permission_Days_Total^Phase_of_Care_on_Admission_(a)^Phase_of_Care_on_Admission_(a)^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Total</li>
+<li>Phase of Care on Admission (a)</li>
+<li>Program Identifier</li>
+<li>Phase of Care on Admission (a)</li>
+<li>Contract/Spoke Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Interpreter_Required^Leave_without_Permission_Days_Financial_Year-to-Date^Marital_Status^RUG_ADL_on_Admission_(a)^Surname
+::exam_file_Interpreter_Required^Leave_without_Permission_Days_Financial_Year-to-Date^Marital_Status^RUG_ADL_on_Admission_(a)^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Surname</li>
+<li>Interpreter Required</li>
+<li>RUG ADL on Admission (a)</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Total^Date_of_Birth_Accuracy^FIM_Score_on_Admission_(a)^Funding_Arrangement^Leave_without_Permission_Days_Month-to-Date
+::exam_file_Contract_Leave_Days_Total^Date_of_Birth_Accuracy^FIM_Score_on_Admission_(a)^Funding_Arrangement^Leave_without_Permission_Days_Month-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth Accuracy</li>
+<li>Leave without Permission Days Month-to-Date</li>
+<li>Contract Leave Days Total</li>
+<li>FIM Score on Admission (a)</li>
+<li>Funding Arrangement</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Admission_Date^Date_of_Birth_Accuracy^Leave_with_Permission_Days_Financial_Year-to-Date^Separation_Referral
+::exam_file_Account_Class_on_Separation_(b)^Admission_Date^Date_of_Birth_Accuracy^Leave_with_Permission_Days_Financial_Year-to-Date^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Referral</li>
+<li>Admission Date</li>
+<li>Date of Birth Accuracy</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Account Class on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Carer_Availability^Date_of_Birth^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Intended_Duration_of_Stay^Surname
+::exam_file_Carer_Availability^Date_of_Birth^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Intended_Duration_of_Stay^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Surname</li>
+<li>Intended Duration of Stay</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Date of Birth</li>
+<li>Carer Availability</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Intention_to_Re-Admit^Marital_Status^Separation_Referral^Transfer_Source
+::exam_file_Campus_Code^Intention_to_Re-Admit^Marital_Status^Separation_Referral^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>Separation Referral</li>
+<li>Transfer Source</li>
+<li>Marital Status</li>
+<li>Intention to Re-Admit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Criterion_for_Admission^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Funding_Arrangement^Procedure_Start_Date_Time
+::exam_file_Admission_Type^Criterion_for_Admission^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Funding_Arrangement^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Criterion for Admission</li>
+<li>Funding Arrangement</li>
+<li>Procedure Start Date Time</li>
+<li>Admission Type</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^Account_Class_(a)^Admission_Date^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Functional_Assessment_Date_on_Admission_(a)
+::exam_file_Accommodation_Type_(a)^Account_Class_(a)^Admission_Date^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Functional_Assessment_Date_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Admission Date</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Account Class (a)</li>
+<li>Accommodation Type (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Marital_Status^Patient_Identifier^RUG_ADL_on_Admission_(a)^Separation_Date
+::exam_file_Admission_Time^Marital_Status^Patient_Identifier^RUG_ADL_on_Admission_(a)^Separation_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Patient Identifier</li>
+<li>RUG ADL on Admission (a)</li>
+<li>Separation Date</li>
+<li>Admission Time</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Stay_in_Intensive_Care_Unit^Functional_Assessment_Date_on_Admission_(a)^Hospital_Generated_DRG^Source_of_Referral_to_Palliative_Care^Source_of_Referral_to_Palliative_Care
+::exam_file_Duration_of_Stay_in_Intensive_Care_Unit^Functional_Assessment_Date_on_Admission_(a)^Hospital_Generated_DRG^Source_of_Referral_to_Palliative_Care^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Source of Referral to Palliative Care</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Hospital Generated DRG</li>
+<li>Source of Referral to Palliative Care</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Marital_Status^Onset_Date^Program_Identifier^Separation_Referral^Separation_Referral
+::exam_file_Marital_Status^Onset_Date^Program_Identifier^Separation_Referral^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Referral</li>
+<li>Onset Date</li>
+<li>Program Identifier</li>
+<li>Marital Status</li>
+<li>Separation Referral</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Contract_Leave_Days_Month-to-Date^FIM_Score_on_Separation_(b)^Locality^Medicare_Suffix
+::exam_file_Account_Class_on_Separation_(b)^Contract_Leave_Days_Month-to-Date^FIM_Score_on_Separation_(b)^Locality^Medicare_Suffix::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Separation (b)</li>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Medicare Suffix</li>
+<li>Account Class on Separation (b)</li>
+<li>Locality</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Criterion_for_Admission^Funding_Arrangement^Leave_with_Permission_Days_Financial_Year-to-Date^Preferred_Language
+::exam_file_Account_Class_on_Separation_(b)^Criterion_for_Admission^Funding_Arrangement^Leave_with_Permission_Days_Financial_Year-to-Date^Preferred_Language::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Funding Arrangement</li>
+<li>Criterion for Admission</li>
+<li>Preferred Language</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Account Class on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Final_Phase_of_Care_Start_Date_(b)^Indigenous_Status^Marital_Status^Procedure_Codes
+::exam_file_Campus_Code^Final_Phase_of_Care_Start_Date_(b)^Indigenous_Status^Marital_Status^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Procedure Codes</li>
+<li>Marital Status</li>
+<li>Indigenous Status</li>
+<li>Final Phase of Care Start Date (b)</li>
+<li>Campus Code</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Final_Phase_of_Care_(b)^Intention_to_Re-Admit^Marital_Status^Mental_Health_Legal_Status
+::exam_file_Campus_Code^Final_Phase_of_Care_(b)^Intention_to_Re-Admit^Marital_Status^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Intention to Re-Admit</li>
+<li>Mental Health Legal Status</li>
+<li>Marital Status</li>
+<li>Campus Code</li>
+<li>Final Phase of Care (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Admission_Type^Country_of_Birth_(SACC_code_set)^Mother’s_UR^Patient_Days_Total
+::exam_file_Admission_Time^Admission_Type^Country_of_Birth_(SACC_code_set)^Mother’s_UR^Patient_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Country of Birth (SACC code set)</li>
+<li>Admission Time</li>
+<li>Admission Type</li>
+<li>Patient Days Total</li>
+<li>Mother’s UR</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Functional_Assessment_Date_on_Admission_(a)^Interpreter_Required^Mother’s_UR^Qualification_Status
+::exam_file_Contract_Type^Functional_Assessment_Date_on_Admission_(a)^Interpreter_Required^Mother’s_UR^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mother’s UR</li>
+<li>Interpreter Required</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Contract Type</li>
+<li>Qualification Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Functional_Assessment_Date_on_Separation_(b)^Hospital_Generated_DRG^Impairment^Leave_with_Permission_Days_Month-to-Date^Phase_of_Care_on_Phase_Change_(c)
+::exam_file_Functional_Assessment_Date_on_Separation_(b)^Hospital_Generated_DRG^Impairment^Leave_with_Permission_Days_Month-to-Date^Phase_of_Care_on_Phase_Change_(c)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Hospital Generated DRG</li>
+<li>Impairment</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^Accommodation_Type_on_Separation_(b)^Date_of_Birth_Accuracy^Leave_with_Permission_Days_Financial_Year-to-Date^Onset_Date
+::exam_file_Accommodation_Type_(a)^Accommodation_Type_on_Separation_(b)^Date_of_Birth_Accuracy^Leave_with_Permission_Days_Financial_Year-to-Date^Onset_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type (a)</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Onset Date</li>
+<li>Date of Birth Accuracy</li>
+<li>Accommodation Type on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Contract_Leave_Days_Financial_Year-to-Date^Hospital_Insurance_Status^Sex^Unique_Key
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Contract_Leave_Days_Financial_Year-to-Date^Hospital_Insurance_Status^Sex^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Hospital Insurance Status</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Sex</li>
+<li>Unique Key</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Indigenous_Status^Leave_with_Permission_Days_Total^Leave_without_Permission_Days_Month-to-Date^Leave_without_Permission_Days_Total^Locality
+::exam_file_Indigenous_Status^Leave_with_Permission_Days_Total^Leave_without_Permission_Days_Month-to-Date^Leave_without_Permission_Days_Total^Locality::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Month-to-Date</li>
+<li>Leave with Permission Days Total</li>
+<li>Indigenous Status</li>
+<li>Locality</li>
+<li>Leave without Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Month-to-Date^Final_Phase_of_Care_Start_Date_(b)^Impairment^Onset_Date^Postcode
+::exam_file_Contract_Leave_Days_Month-to-Date^Final_Phase_of_Care_Start_Date_(b)^Impairment^Onset_Date^Postcode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Postcode</li>
+<li>Onset Date</li>
+<li>Impairment</li>
+<li>Final Phase of Care Start Date (b)</li>
+<li>Contract Leave Days Month-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Date_of_Accident^Duration_of_Mechanical_Ventilation_in_ICU^Phase_of_Care_on_Phase_Change_(c)^Unique_Key
+::exam_file_Admission_Type^Date_of_Accident^Duration_of_Mechanical_Ventilation_in_ICU^Phase_of_Care_on_Phase_Change_(c)^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Accident</li>
+<li>Admission Type</li>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Unique Key</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Total^Contract_Type^Contract_Type^Leave_with_Permission_Days_Financial_Year-to-Date^Marital_Status
+::exam_file_Contract_Leave_Days_Total^Contract_Type^Contract_Type^Leave_with_Permission_Days_Financial_Year-to-Date^Marital_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Total</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Contract Type</li>
+<li>Marital Status</li>
+<li>Contract Type</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Contract_Leave_Days_Financial_Year-to-Date^Criterion_for_Admission^Duration_of_Stay_in_Intensive_Care_Unit^FIM_Score_on_Admission_(a)
+::exam_file_Admission_Time^Contract_Leave_Days_Financial_Year-to-Date^Criterion_for_Admission^Duration_of_Stay_in_Intensive_Care_Unit^FIM_Score_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Admission Time</li>
+<li>Criterion for Admission</li>
+<li>FIM Score on Admission (a)</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Plan_Documented_Date^Care_Type^Duration_of_Stay_in_Intensive_Care_Unit^Postcode^Transfer_Destination
+::exam_file_Care_Plan_Documented_Date^Care_Type^Duration_of_Stay_in_Intensive_Care_Unit^Postcode^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Care Plan Documented Date</li>
+<li>Postcode</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Transfer Destination</li>
+<li>Care Type</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_FIM_Score_on_Admission_(a)^Leave_without_Permission_Days_Total^Mother’s_UR^Patient_Identifier^Separation_Date
+::exam_file_FIM_Score_on_Admission_(a)^Leave_without_Permission_Days_Total^Mother’s_UR^Patient_Identifier^Separation_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Admission (a)</li>
+<li>Separation Date</li>
+<li>Leave without Permission Days Total</li>
+<li>Mother’s UR</li>
+<li>Patient Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Leave_with_Permission_Days_Month-to-Date^Marital_Status^Medicare_Suffix^Transfer_Destination
+::exam_file_Campus_Code^Leave_with_Permission_Days_Month-to-Date^Marital_Status^Medicare_Suffix^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Transfer Destination</li>
+<li>Medicare Suffix</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Country_of_Birth_(SACC_code_set)^Date_of_Birth^Hospital_Insurance_Status^Impairment^Leave_without_Permission_Days_Month-to-Date
+::exam_file_Country_of_Birth_(SACC_code_set)^Date_of_Birth^Hospital_Insurance_Status^Impairment^Leave_without_Permission_Days_Month-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Impairment</li>
+<li>Hospital Insurance Status</li>
+<li>Country of Birth (SACC code set)</li>
+<li>Date of Birth</li>
+<li>Leave without Permission Days Month-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Source^Hospital_Insurance_Status^Interpreter_Required^Phase_of_Care_on_Phase_Change_(c)^RUG_ADL_on_Admission_(a)
+::exam_file_Admission_Source^Hospital_Insurance_Status^Interpreter_Required^Phase_of_Care_on_Phase_Change_(c)^RUG_ADL_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>RUG ADL on Admission (a)</li>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Admission Source</li>
+<li>Interpreter Required</li>
+<li>Hospital Insurance Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Country_of_Birth_(SACC_code_set)^Leave_without_Permission_Days_Total^Phase_of_Care_on_Admission_(a)^Postcode^Separation_Mode
+::exam_file_Country_of_Birth_(SACC_code_set)^Leave_without_Permission_Days_Total^Phase_of_Care_on_Admission_(a)^Postcode^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Mode</li>
+<li>Postcode</li>
+<li>Leave without Permission Days Total</li>
+<li>Country of Birth (SACC code set)</li>
+<li>Phase of Care on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Contract_Role^Diagnosis_Codes^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Separation_Mode
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Contract_Role^Diagnosis_Codes^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Separation Mode</li>
+<li>Contract Role</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Diagnosis Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Month-to-Date^Date_of_Birth^Functional_Assessment_Date_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Interpreter_Required
+::exam_file_Contract_Leave_Days_Month-to-Date^Date_of_Birth^Functional_Assessment_Date_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Interpreter_Required::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Interpreter Required</li>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Date of Birth</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Functional Assessment Date on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Contract_Type^Leave_without_Permission_Days_Financial_Year-to-Date^Procedure_Codes^Unique_Key
+::exam_file_ACAS_Status^Contract_Type^Leave_without_Permission_Days_Financial_Year-to-Date^Procedure_Codes^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Procedure Codes</li>
+<li>Unique Key</li>
+<li>Contract Type</li>
+<li>ACAS Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Date_of_Birth^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Given_Name(s)^Leave_with_Permission_Days_Financial_Year-to-Date
+::exam_file_ACAS_Status^Date_of_Birth^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Given_Name(s)^Leave_with_Permission_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Date of Birth</li>
+<li>ACAS Status</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+<li>Given Name(s)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Final_Phase_of_Care_(b)^Impairment^Leave_with_Permission_Days_Month-to-Date^Surname
+::exam_file_Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Final_Phase_of_Care_(b)^Impairment^Leave_with_Permission_Days_Month-to-Date^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Final Phase of Care (b)</li>
+<li>Surname</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Impairment</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Leave_with_Permission_Days_Month-to-Date^Phase_of_Care_on_Phase_Change_(c)^Postcode^Source_of_Referral_to_Palliative_Care
+::exam_file_Contract_Type^Leave_with_Permission_Days_Month-to-Date^Phase_of_Care_on_Phase_Change_(c)^Postcode^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Type</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Postcode</li>
+<li>Source of Referral to Palliative Care</li>
+<li>Phase of Care on Phase Change (c)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Admission_Type^Functional_Assessment_Date_on_Separation_(b)^Leave_with_Permission_Days_Total^Separation_Mode
+::exam_file_Account_Class_on_Separation_(b)^Admission_Type^Functional_Assessment_Date_on_Separation_(b)^Leave_with_Permission_Days_Total^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Mode</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Admission Type</li>
+<li>Account Class on Separation (b)</li>
+<li>Leave with Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Carer_Availability^Criterion_for_Admission^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Funding_Arrangement^Intended_Duration_of_Stay
+::exam_file_Carer_Availability^Criterion_for_Admission^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Funding_Arrangement^Intended_Duration_of_Stay::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Criterion for Admission</li>
+<li>Carer Availability</li>
+<li>Funding Arrangement</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Intended Duration of Stay</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Marital_Status^Medicare_Number^Medicare_Suffix^Mental_Health_State_Wide_Patient_Identifier^Transfer_Destination
+::exam_file_Marital_Status^Medicare_Number^Medicare_Suffix^Mental_Health_State_Wide_Patient_Identifier^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Transfer Destination</li>
+<li>Medicare Number</li>
+<li>Marital Status</li>
+<li>Medicare Suffix</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Advanced_Care_Plan_Alert^Functional_Assessment_Date_on_Separation_(b)^Leave_with_Permission_Days_Total^Phase_of_Care_on_Admission_(a)
+::exam_file_Admission_Date^Advanced_Care_Plan_Alert^Functional_Assessment_Date_on_Separation_(b)^Leave_with_Permission_Days_Total^Phase_of_Care_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Phase of Care on Admission (a)</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Leave with Permission Days Total</li>
+<li>Advanced Care Plan Alert</li>
+<li>Admission Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Funding_Arrangement^Hospital_Generated_DRG^Intended_Duration_of_Stay^Patient_Identifier
+::exam_file_Admission_Date^Funding_Arrangement^Hospital_Generated_DRG^Intended_Duration_of_Stay^Patient_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Date</li>
+<li>Patient Identifier</li>
+<li>Intended Duration of Stay</li>
+<li>Hospital Generated DRG</li>
+<li>Funding Arrangement</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Intention_to_Re-Admit^Mental_Health_Legal_Status^Phase_of_Care_on_Admission_(a)^Procedure_Start_Date_Time
+::exam_file_ACAS_Status^Intention_to_Re-Admit^Mental_Health_Legal_Status^Phase_of_Care_on_Admission_(a)^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health Legal Status</li>
+<li>Phase of Care on Admission (a)</li>
+<li>ACAS Status</li>
+<li>Procedure Start Date Time</li>
+<li>Intention to Re-Admit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Contract/Spoke_Identifier^FIM_Score_on_Separation_(b)^Leave_without_Permission_Days_Month-to-Date^Mental_Health_Legal_Status
+::exam_file_Admission_Time^Contract/Spoke_Identifier^FIM_Score_on_Separation_(b)^Leave_without_Permission_Days_Month-to-Date^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Separation (b)</li>
+<li>Leave without Permission Days Month-to-Date</li>
+<li>Admission Time</li>
+<li>Mental Health Legal Status</li>
+<li>Contract/Spoke Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Final_Phase_of_Care_(b)^Leave_without_Permission_Days_Total^Medicare_Number^Medicare_Suffix^Unique_Key
+::exam_file_Final_Phase_of_Care_(b)^Leave_without_Permission_Days_Total^Medicare_Number^Medicare_Suffix^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Unique Key</li>
+<li>Final Phase of Care (b)</li>
+<li>Medicare Number</li>
+<li>Medicare Suffix</li>
+<li>Leave without Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Hospital_Insurance_Status^Leave_without_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Total^Mental_Health_Legal_Status
+::exam_file_Contract_Type^Hospital_Insurance_Status^Leave_without_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Total^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health Legal Status</li>
+<li>Hospital Insurance Status</li>
+<li>Leave without Permission Days Total</li>
+<li>Contract Type</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Contract_Leave_Days_Month-to-Date^Hospital_Generated_DRG^Medicare_Number^Unique_Key
+::exam_file_Account_Class_on_Separation_(b)^Contract_Leave_Days_Month-to-Date^Hospital_Generated_DRG^Medicare_Number^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Account Class on Separation (b)</li>
+<li>Hospital Generated DRG</li>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Unique Key</li>
+<li>Medicare Number</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Admission_Time^Country_of_Birth_(SACC_code_set)^Functional_Assessment_Date_on_Admission_(a)^Funding_Arrangement
+::exam_file_Account_Class_(a)^Admission_Time^Country_of_Birth_(SACC_code_set)^Functional_Assessment_Date_on_Admission_(a)^Funding_Arrangement::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Time</li>
+<li>Funding Arrangement</li>
+<li>Account Class (a)</li>
+<li>Country of Birth (SACC code set)</li>
+<li>Functional Assessment Date on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Leave_with_Permission_Days_Month-to-Date^Patient_Days_Total^Patient_Identifier^Phase_of_Care_on_Phase_Change_(c)^Sex
+::exam_file_Leave_with_Permission_Days_Month-to-Date^Patient_Days_Total^Patient_Identifier^Phase_of_Care_on_Phase_Change_(c)^Sex::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Sex</li>
+<li>Patient Identifier</li>
+<li>Patient Days Total</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Phase of Care on Phase Change (c)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Admission_Weight^Date_of_Birth_Accuracy^Patient_Identifier^Source_of_Referral_to_Palliative_Care
+::exam_file_ACAS_Status^Admission_Weight^Date_of_Birth_Accuracy^Patient_Identifier^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>ACAS Status</li>
+<li>Source of Referral to Palliative Care</li>
+<li>Date of Birth Accuracy</li>
+<li>Patient Identifier</li>
+<li>Admission Weight</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Account_Class_(a)^Admission_Date^Marital_Status^Procedure_Start_Date_Time
+::exam_file_ACAS_Status^Account_Class_(a)^Admission_Date^Marital_Status^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Date</li>
+<li>Account Class (a)</li>
+<li>ACAS Status</li>
+<li>Procedure Start Date Time</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Birth^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Phase_of_Care_Change_Date_(a)^Procedure_Codes^Separation_Time
+::exam_file_Date_of_Birth^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Phase_of_Care_Change_Date_(a)^Procedure_Codes^Separation_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Procedure Codes</li>
+<li>Separation Time</li>
+<li>Phase of Care Change Date (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Advanced_Care_Plan_Alert^Funding_Arrangement^Leave_without_Permission_Days_Financial_Year-to-Date^Separation_Referral^Transfer_Destination
+::exam_file_Advanced_Care_Plan_Alert^Funding_Arrangement^Leave_without_Permission_Days_Financial_Year-to-Date^Separation_Referral^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Advanced Care Plan Alert</li>
+<li>Separation Referral</li>
+<li>Funding Arrangement</li>
+<li>Transfer Destination</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Country_of_Birth_(SACC_code_set)^Medicare_Number^Mental_Health_State_Wide_Patient_Identifier^Mental_Health_State_Wide_Patient_Identifier^Patient_Days_Financial_Year-to-Date
+::exam_file_Country_of_Birth_(SACC_code_set)^Medicare_Number^Mental_Health_State_Wide_Patient_Identifier^Mental_Health_State_Wide_Patient_Identifier^Patient_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Medicare Number</li>
+<li>Country of Birth (SACC code set)</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Mental Health State Wide Patient Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Contract_Leave_Days_Financial_Year-to-Date^Contract_Type^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Onset_Date
+::exam_file_ACAS_Status^Contract_Leave_Days_Financial_Year-to-Date^Contract_Type^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Onset_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>ACAS Status</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Onset Date</li>
+<li>Contract Type</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Accident^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Final_Phase_of_Care_Start_Date_(b)^Mental_Health_Legal_Status^Transfer_Source
+::exam_file_Date_of_Accident^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Final_Phase_of_Care_Start_Date_(b)^Mental_Health_Legal_Status^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Accident</li>
+<li>Mental Health Legal Status</li>
+<li>Transfer Source</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Final Phase of Care Start Date (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Criterion_for_Admission^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Leave_with_Permission_Days_Total^Locality
+::exam_file_Criterion_for_Admission^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Leave_with_Permission_Days_Total^Locality::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Locality</li>
+<li>Leave with Permission Days Total</li>
+<li>Criterion for Admission</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Admission_Weight^Intended_Duration_of_Stay^Leave_without_Permission_Days_Total^Source_of_Referral_to_Palliative_Care
+::exam_file_Accommodation_Type_on_Separation_(b)^Admission_Weight^Intended_Duration_of_Stay^Leave_without_Permission_Days_Total^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Intended Duration of Stay</li>
+<li>Accommodation Type on Separation (b)</li>
+<li>Admission Weight</li>
+<li>Leave without Permission Days Total</li>
+<li>Source of Referral to Palliative Care</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Carer_Availability^Leave_without_Permission_Days_Total^Mental_Health_State_Wide_Patient_Identifier^Phase_of_Care_Change_Date_(a)
+::exam_file_Admission_Date^Carer_Availability^Leave_without_Permission_Days_Total^Mental_Health_State_Wide_Patient_Identifier^Phase_of_Care_Change_Date_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Admission Date</li>
+<li>Carer Availability</li>
+<li>Phase of Care Change Date (a)</li>
+<li>Leave without Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Admission_Type^Funding_Arrangement^Leave_with_Permission_Days_Total^Postcode
+::exam_file_Admission_Date^Admission_Type^Funding_Arrangement^Leave_with_Permission_Days_Total^Postcode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave with Permission Days Total</li>
+<li>Admission Type</li>
+<li>Funding Arrangement</li>
+<li>Admission Date</li>
+<li>Postcode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Final_Phase_of_Care_Start_Date_(b)^Given_Name(s)^Program_Identifier^Transfer_Destination
+::exam_file_Admission_Time^Final_Phase_of_Care_Start_Date_(b)^Given_Name(s)^Program_Identifier^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Transfer Destination</li>
+<li>Final Phase of Care Start Date (b)</li>
+<li>Admission Time</li>
+<li>Given Name(s)</li>
+<li>Program Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Criterion_for_Admission^Funding_Arrangement^Procedure_Codes^Separation_Date^Source_of_Referral_to_Palliative_Care
+::exam_file_Criterion_for_Admission^Funding_Arrangement^Procedure_Codes^Separation_Date^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Funding Arrangement</li>
+<li>Criterion for Admission</li>
+<li>Source of Referral to Palliative Care</li>
+<li>Procedure Codes</li>
+<li>Separation Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Plan_Documented_Date^Date_of_Birth^Locality^Postcode^Source_of_Referral_to_Palliative_Care
+::exam_file_Care_Plan_Documented_Date^Date_of_Birth^Locality^Postcode^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Source of Referral to Palliative Care</li>
+<li>Locality</li>
+<li>Care Plan Documented Date</li>
+<li>Date of Birth</li>
+<li>Postcode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_FIM_Score_on_Admission_(a)^Impairment^Medicare_Number^Patient_Days_Financial_Year-to-Date^Unique_Key
+::exam_file_FIM_Score_on_Admission_(a)^Impairment^Medicare_Number^Patient_Days_Financial_Year-to-Date^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Impairment</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>FIM Score on Admission (a)</li>
+<li>Unique Key</li>
+<li>Medicare Number</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Contract_Leave_Days_Total^Duration_of_Mechanical_Ventilation_in_ICU^Leave_without_Permission_Days_Month-to-Date^Surname
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Contract_Leave_Days_Total^Duration_of_Mechanical_Ventilation_in_ICU^Leave_without_Permission_Days_Month-to-Date^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Surname</li>
+<li>Leave without Permission Days Month-to-Date</li>
+<li>Contract Leave Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Clinical_group^Contract_Leave_Days_Financial_Year-to-Date^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Phase_of_Care_on_Admission_(a)^Surname
+::exam_file_Clinical_group^Contract_Leave_Days_Financial_Year-to-Date^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Phase_of_Care_on_Admission_(a)^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Clinical group</li>
+<li>Phase of Care on Admission (a)</li>
+<li>Surname</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Stay_in_Intensive_Care_Unit^Duration_of_Stay_in_Intensive_Care_Unit^Final_Phase_of_Care_(b)^Interpreter_Required^Patient_Identifier
+::exam_file_Duration_of_Stay_in_Intensive_Care_Unit^Duration_of_Stay_in_Intensive_Care_Unit^Final_Phase_of_Care_(b)^Interpreter_Required^Patient_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Patient Identifier</li>
+<li>Interpreter Required</li>
+<li>Final Phase of Care (b)</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Care_Type^Diagnosis_Codes^Patient_Days_Financial_Year-to-Date^Surname
+::exam_file_Accommodation_Type_on_Separation_(b)^Care_Type^Diagnosis_Codes^Patient_Days_Financial_Year-to-Date^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type on Separation (b)</li>
+<li>Care Type</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Surname</li>
+<li>Diagnosis Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Total^Contract_Role^Date_of_Accident^Duration_of_Mechanical_Ventilation_in_ICU^Duration_of_Stay_in_Intensive_Care_Unit
+::exam_file_Contract_Leave_Days_Total^Contract_Role^Date_of_Accident^Duration_of_Mechanical_Ventilation_in_ICU^Duration_of_Stay_in_Intensive_Care_Unit::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Contract Role</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Date of Accident</li>
+<li>Contract Leave Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Clinical_group^Criterion_for_Admission^Functional_Assessment_Date_on_Separation_(b)^Given_Name(s)^Procedure_Codes
+::exam_file_Clinical_group^Criterion_for_Admission^Functional_Assessment_Date_on_Separation_(b)^Given_Name(s)^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Procedure Codes</li>
+<li>Criterion for Admission</li>
+<li>Clinical group</li>
+<li>Given Name(s)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Contract/Spoke_Identifier^Functional_Assessment_Date_on_Admission_(a)^Procedure_Start_Date_Time^Separation_Date
+::exam_file_Admission_Date^Contract/Spoke_Identifier^Functional_Assessment_Date_on_Admission_(a)^Procedure_Start_Date_Time^Separation_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Separation Date</li>
+<li>Contract/Spoke Identifier</li>
+<li>Admission Date</li>
+<li>Procedure Start Date Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Medicare_Number^Preferred_Language^Qualification_Status^RUG_ADL_on_Admission_(a)^Unique_Key
+::exam_file_Medicare_Number^Preferred_Language^Qualification_Status^RUG_ADL_on_Admission_(a)^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>RUG ADL on Admission (a)</li>
+<li>Qualification Status</li>
+<li>Unique Key</li>
+<li>Medicare Number</li>
+<li>Preferred Language</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Date_of_Birth^Date_of_Birth^Indigenous_Status^Marital_Status
+::exam_file_Admission_Date^Date_of_Birth^Date_of_Birth^Indigenous_Status^Marital_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Date</li>
+<li>Indigenous Status</li>
+<li>Date of Birth</li>
+<li>Date of Birth</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Stay_in_Intensive_Care_Unit^Leave_with_Permission_Days_Financial_Year-to-Date^Patient_Identifier^Procedure_Start_Date_Time^Source_of_Referral_to_Palliative_Care
+::exam_file_Duration_of_Stay_in_Intensive_Care_Unit^Leave_with_Permission_Days_Financial_Year-to-Date^Patient_Identifier^Procedure_Start_Date_Time^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Patient Identifier</li>
+<li>Source of Referral to Palliative Care</li>
+<li>Procedure Start Date Time</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Advanced_Care_Plan_Alert^Patient_Days_Month-to-Date^RUG_ADL_on_Admission_(a)^Separation_Time
+::exam_file_Accommodation_Type_on_Separation_(b)^Advanced_Care_Plan_Alert^Patient_Days_Month-to-Date^RUG_ADL_on_Admission_(a)^Separation_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Time</li>
+<li>Advanced Care Plan Alert</li>
+<li>Patient Days Month-to-Date</li>
+<li>Accommodation Type on Separation (b)</li>
+<li>RUG ADL on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Final_Phase_of_Care_Start_Date_(b)^Preferred_Language^Procedure_Codes^Qualification_Status^Separation_Referral
+::exam_file_Final_Phase_of_Care_Start_Date_(b)^Preferred_Language^Procedure_Codes^Qualification_Status^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Preferred Language</li>
+<li>Separation Referral</li>
+<li>Procedure Codes</li>
+<li>Final Phase of Care Start Date (b)</li>
+<li>Qualification Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Leave_with_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Financial_Year-to-Date^Medicare_Suffix^Separation_Time^Source_of_Referral_to_Palliative_Care
+::exam_file_Leave_with_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Financial_Year-to-Date^Medicare_Suffix^Separation_Time^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Medicare Suffix</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Separation Time</li>
+<li>Source of Referral to Palliative Care</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Date_of_Birth_Accuracy^Leave_with_Permission_Days_Financial_Year-to-Date^Medicare_Suffix^Program_Identifier
+::exam_file_Admission_Type^Date_of_Birth_Accuracy^Leave_with_Permission_Days_Financial_Year-to-Date^Medicare_Suffix^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Type</li>
+<li>Program Identifier</li>
+<li>Date of Birth Accuracy</li>
+<li>Medicare Suffix</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Date_of_Birth_Accuracy^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Functional_Assessment_Date_on_Admission_(a)^Mental_Health_Legal_Status
+::exam_file_Admission_Date^Date_of_Birth_Accuracy^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Functional_Assessment_Date_on_Admission_(a)^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Date of Birth Accuracy</li>
+<li>Admission Date</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Mental Health Legal Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Contract_Leave_Days_Total^Mental_Health_Legal_Status^Patient_Days_Month-to-Date^Procedure_Codes
+::exam_file_Campus_Code^Contract_Leave_Days_Total^Mental_Health_Legal_Status^Patient_Days_Month-to-Date^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health Legal Status</li>
+<li>Patient Days Month-to-Date</li>
+<li>Contract Leave Days Total</li>
+<li>Procedure Codes</li>
+<li>Campus Code</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract/Spoke_Identifier^Duration_of_Stay_in_Intensive_Care_Unit^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Patient_Identifier^Separation_Referral
+::exam_file_Contract/Spoke_Identifier^Duration_of_Stay_in_Intensive_Care_Unit^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Patient_Identifier^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract/Spoke Identifier</li>
+<li>Separation Referral</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Patient Identifier</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Functional_Assessment_Date_on_Separation_(b)^Phase_of_Care_on_Phase_Change_(c)^Separation_Mode^Transfer_Destination
+::exam_file_Admission_Type^Functional_Assessment_Date_on_Separation_(b)^Phase_of_Care_on_Phase_Change_(c)^Separation_Mode^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Transfer Destination</li>
+<li>Admission Type</li>
+<li>Separation Mode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^FIM_Score_on_Admission_(a)^Given_Name(s)^Leave_with_Permission_Days_Month-to-Date^Procedure_Codes
+::exam_file_Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^FIM_Score_on_Admission_(a)^Given_Name(s)^Leave_with_Permission_Days_Month-to-Date^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Given Name(s)</li>
+<li>FIM Score on Admission (a)</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Procedure Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Hospital_Insurance_Status^Intention_to_Re-Admit^Locality^Phase_of_Care_Change_Date_(a)
+::exam_file_Admission_Date^Hospital_Insurance_Status^Intention_to_Re-Admit^Locality^Phase_of_Care_Change_Date_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Hospital Insurance Status</li>
+<li>Phase of Care Change Date (a)</li>
+<li>Locality</li>
+<li>Admission Date</li>
+<li>Intention to Re-Admit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Contract_Role^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Phase_of_Care_on_Admission_(a)^Procedure_Start_Date_Time
+::exam_file_Admission_Type^Contract_Role^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Phase_of_Care_on_Admission_(a)^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Type</li>
+<li>Phase of Care on Admission (a)</li>
+<li>Contract Role</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Procedure Start Date Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Functional_Assessment_Date_on_Separation_(b)^Patient_Identifier^Procedure_Codes^Separation_Time^Transfer_Destination
+::exam_file_Functional_Assessment_Date_on_Separation_(b)^Patient_Identifier^Procedure_Codes^Separation_Time^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Transfer Destination</li>
+<li>Separation Time</li>
+<li>Procedure Codes</li>
+<li>Patient Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Month-to-Date^Contract_Leave_Days_Month-to-Date^FIM_Score_on_Admission_(a)^Surname^Transfer_Destination
+::exam_file_Contract_Leave_Days_Month-to-Date^Contract_Leave_Days_Month-to-Date^FIM_Score_on_Admission_(a)^Surname^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Surname</li>
+<li>FIM Score on Admission (a)</li>
+<li>Transfer Destination</li>
+<li>Contract Leave Days Month-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Duration_of_Mechanical_Ventilation_in_ICU^Impairment^Procedure_Start_Date_Time^Transfer_Destination
+::exam_file_ACAS_Status^Duration_of_Mechanical_Ventilation_in_ICU^Impairment^Procedure_Start_Date_Time^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Impairment</li>
+<li>ACAS Status</li>
+<li>Transfer Destination</li>
+<li>Procedure Start Date Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Birth^Duration_of_Mechanical_Ventilation_in_ICU^Funding_Arrangement^Funding_Arrangement^Hospital_Generated_DRG
+::exam_file_Date_of_Birth^Duration_of_Mechanical_Ventilation_in_ICU^Funding_Arrangement^Funding_Arrangement^Hospital_Generated_DRG::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Funding Arrangement</li>
+<li>Hospital Generated DRG</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Funding Arrangement</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Mechanical_Ventilation_in_ICU^FIM_Score_on_Separation_(b)^Patient_Days_Total^Separation_Date^Sex
+::exam_file_Duration_of_Mechanical_Ventilation_in_ICU^FIM_Score_on_Separation_(b)^Patient_Days_Total^Separation_Date^Sex::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Patient Days Total</li>
+<li>Separation Date</li>
+<li>FIM Score on Separation (b)</li>
+<li>Sex</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Birth^Impairment^Impairment^Procedure_Start_Date_Time^Separation_Referral
+::exam_file_Date_of_Birth^Impairment^Impairment^Procedure_Start_Date_Time^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Impairment</li>
+<li>Impairment</li>
+<li>Separation Referral</li>
+<li>Procedure Start Date Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Functional_Assessment_Date_on_Admission_(a)^Marital_Status^Medicare_Suffix^Procedure_Codes
+::exam_file_Campus_Code^Functional_Assessment_Date_on_Admission_(a)^Marital_Status^Medicare_Suffix^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>Marital Status</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Medicare Suffix</li>
+<li>Procedure Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Funding_Arrangement^Intended_Duration_of_Stay^Patient_Days_Financial_Year-to-Date^Patient_Days_Total^RUG_ADL_on_Admission_(a)
+::exam_file_Funding_Arrangement^Intended_Duration_of_Stay^Patient_Days_Financial_Year-to-Date^Patient_Days_Total^RUG_ADL_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>RUG ADL on Admission (a)</li>
+<li>Patient Days Total</li>
+<li>Intended Duration of Stay</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Funding Arrangement</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Criterion_for_Admission^Duration_of_Mechanical_Ventilation_in_ICU^Marital_Status^Qualification_Status^Transfer_Source
+::exam_file_Criterion_for_Admission^Duration_of_Mechanical_Ventilation_in_ICU^Marital_Status^Qualification_Status^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Criterion for Admission</li>
+<li>Transfer Source</li>
+<li>Qualification Status</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Marital Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Type^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Mental_Health_State_Wide_Patient_Identifier^Patient_Days_Month-to-Date^Qualification_Status
+::exam_file_Care_Type^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Mental_Health_State_Wide_Patient_Identifier^Patient_Days_Month-to-Date^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Patient Days Month-to-Date</li>
+<li>Care Type</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Qualification Status</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Advanced_Care_Plan_Alert^Contract_Type^Duration_of_Stay_in_Intensive_Care_Unit^Leave_with_Permission_Days_Total^Patient_Days_Financial_Year-to-Date
+::exam_file_Advanced_Care_Plan_Alert^Contract_Type^Duration_of_Stay_in_Intensive_Care_Unit^Leave_with_Permission_Days_Total^Patient_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Type</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Leave with Permission Days Total</li>
+<li>Advanced Care Plan Alert</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^Accommodation_Type_on_Separation_(b)^FIM_Score_on_Admission_(a)^Mental_Health_Legal_Status^Patient_Days_Total
+::exam_file_Accommodation_Type_(a)^Accommodation_Type_on_Separation_(b)^FIM_Score_on_Admission_(a)^Mental_Health_Legal_Status^Patient_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type (a)</li>
+<li>FIM Score on Admission (a)</li>
+<li>Patient Days Total</li>
+<li>Mental Health Legal Status</li>
+<li>Accommodation Type on Separation (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Contract_Leave_Days_Total^Criterion_for_Admission^Leave_without_Permission_Days_Total^Separation_Mode
+::exam_file_Admission_Type^Contract_Leave_Days_Total^Criterion_for_Admission^Leave_without_Permission_Days_Total^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Criterion for Admission</li>
+<li>Admission Type</li>
+<li>Leave without Permission Days Total</li>
+<li>Separation Mode</li>
+<li>Contract Leave Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Functional_Assessment_Date_on_Admission_(a)^Leave_without_Permission_Days_Financial_Year-to-Date^Unique_Key
+::exam_file_Account_Class_(a)^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Functional_Assessment_Date_on_Admission_(a)^Leave_without_Permission_Days_Financial_Year-to-Date^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Unique Key</li>
+<li>Account Class (a)</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Functional Assessment Date on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Accident^Funding_Arrangement^Leave_without_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Month-to-Date^Qualification_Status
+::exam_file_Date_of_Accident^Funding_Arrangement^Leave_without_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Month-to-Date^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Qualification Status</li>
+<li>Funding Arrangement</li>
+<li>Date of Accident</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Leave without Permission Days Month-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^FIM_Score_on_Separation_(b)^Intended_Duration_of_Stay^Mental_Health_State_Wide_Patient_Identifier^Patient_Identifier
+::exam_file_Account_Class_(a)^FIM_Score_on_Separation_(b)^Intended_Duration_of_Stay^Mental_Health_State_Wide_Patient_Identifier^Patient_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Separation (b)</li>
+<li>Intended Duration of Stay</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Patient Identifier</li>
+<li>Account Class (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Patient_Days_Total^Preferred_Language^Separation_Date^Separation_Mode
+::exam_file_Campus_Code^Patient_Days_Total^Preferred_Language^Separation_Date^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>Preferred Language</li>
+<li>Separation Mode</li>
+<li>Separation Date</li>
+<li>Patient Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Accident^Hospital_Generated_DRG^Patient_Days_Financial_Year-to-Date^Separation_Referral^Separation_Referral
+::exam_file_Date_of_Accident^Hospital_Generated_DRG^Patient_Days_Financial_Year-to-Date^Separation_Referral^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Accident</li>
+<li>Separation Referral</li>
+<li>Separation Referral</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Hospital Generated DRG</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Leave_with_Permission_Days_Month-to-Date^Leave_with_Permission_Days_Total^Procedure_Codes
+::exam_file_Campus_Code^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Leave_with_Permission_Days_Month-to-Date^Leave_with_Permission_Days_Total^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Procedure Codes</li>
+<li>Leave with Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^FIM_Score_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Given_Name(s)^Leave_without_Permission_Days_Total
+::exam_file_Account_Class_(a)^FIM_Score_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Given_Name(s)^Leave_without_Permission_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>FIM Score on Admission (a)</li>
+<li>Account Class (a)</li>
+<li>Given Name(s)</li>
+<li>Leave without Permission Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Weight^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Intended_Duration_of_Stay^Leave_without_Permission_Days_Financial_Year-to-Date
+::exam_file_Admission_Weight^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Intended_Duration_of_Stay^Leave_without_Permission_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Intended Duration of Stay</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Admission Weight</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Contract_Leave_Days_Financial_Year-to-Date^Contract_Leave_Days_Total^Functional_Assessment_Date_on_Separation_(b)^Separation_Referral
+::exam_file_Admission_Date^Contract_Leave_Days_Financial_Year-to-Date^Contract_Leave_Days_Total^Functional_Assessment_Date_on_Separation_(b)^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Date</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Contract Leave Days Total</li>
+<li>Separation Referral</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Medicare_Number^Mental_Health_Legal_Status^Mother’s_UR^Onset_Date^Source_of_Referral_to_Palliative_Care
+::exam_file_Medicare_Number^Mental_Health_Legal_Status^Mother’s_UR^Onset_Date^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Source of Referral to Palliative Care</li>
+<li>Onset Date</li>
+<li>Medicare Number</li>
+<li>Mental Health Legal Status</li>
+<li>Mother’s UR</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Total^Locality^Separation_Mode^Separation_Mode^Transfer_Source
+::exam_file_Contract_Leave_Days_Total^Locality^Separation_Mode^Separation_Mode^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Mode</li>
+<li>Contract Leave Days Total</li>
+<li>Transfer Source</li>
+<li>Locality</li>
+<li>Separation Mode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Hospital_Insurance_Status^Locality^Procedure_Codes^RUG_ADL_on_Admission_(a)
+::exam_file_Accommodation_Type_on_Separation_(b)^Hospital_Insurance_Status^Locality^Procedure_Codes^RUG_ADL_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type on Separation (b)</li>
+<li>Procedure Codes</li>
+<li>Locality</li>
+<li>Hospital Insurance Status</li>
+<li>RUG ADL on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Stay_in_Intensive_Care_Unit^FIM_Score_on_Separation_(b)^Leave_without_Permission_Days_Financial_Year-to-Date^Preferred_Language^Separation_Mode
+::exam_file_Duration_of_Stay_in_Intensive_Care_Unit^FIM_Score_on_Separation_(b)^Leave_without_Permission_Days_Financial_Year-to-Date^Preferred_Language^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>FIM Score on Separation (b)</li>
+<li>Preferred Language</li>
+<li>Separation Mode</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Clinical_group^Final_Phase_of_Care_(b)^Hospital_Insurance_Status^Procedure_Codes
+::exam_file_Accommodation_Type_on_Separation_(b)^Clinical_group^Final_Phase_of_Care_(b)^Hospital_Insurance_Status^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Procedure Codes</li>
+<li>Clinical group</li>
+<li>Accommodation Type on Separation (b)</li>
+<li>Final Phase of Care (b)</li>
+<li>Hospital Insurance Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Admission_Date^Hospital_Generated_DRG^Program_Identifier^Separation_Mode
+::exam_file_ACAS_Status^Admission_Date^Hospital_Generated_DRG^Program_Identifier^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Hospital Generated DRG</li>
+<li>Admission Date</li>
+<li>Program Identifier</li>
+<li>Separation Mode</li>
+<li>ACAS Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Clinical_group^Final_Phase_of_Care_Start_Date_(b)^Locality^Marital_Status^Qualification_Status
+::exam_file_Clinical_group^Final_Phase_of_Care_Start_Date_(b)^Locality^Marital_Status^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Qualification Status</li>
+<li>Marital Status</li>
+<li>Clinical group</li>
+<li>Final Phase of Care Start Date (b)</li>
+<li>Locality</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Total^Final_Phase_of_Care_(b)^Hospital_Generated_DRG^Medicare_Number^Program_Identifier
+::exam_file_Contract_Leave_Days_Total^Final_Phase_of_Care_(b)^Hospital_Generated_DRG^Medicare_Number^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Medicare Number</li>
+<li>Contract Leave Days Total</li>
+<li>Hospital Generated DRG</li>
+<li>Program Identifier</li>
+<li>Final Phase of Care (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Contract_Leave_Days_Total^FIM_Score_on_Separation_(b)^Leave_without_Permission_Days_Total^Locality
+::exam_file_Campus_Code^Contract_Leave_Days_Total^FIM_Score_on_Separation_(b)^Leave_without_Permission_Days_Total^Locality::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>FIM Score on Separation (b)</li>
+<li>Locality</li>
+<li>Leave without Permission Days Total</li>
+<li>Contract Leave Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Type^Contract_Type^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^FIM_Score_on_Separation_(b)^Final_Phase_of_Care_(b)
+::exam_file_Contract_Type^Contract_Type^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^FIM_Score_on_Separation_(b)^Final_Phase_of_Care_(b)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Type</li>
+<li>Final Phase of Care (b)</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>FIM Score on Separation (b)</li>
+<li>Contract Type</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Type^Clinical_group^Indigenous_Status^Phase_of_Care_on_Phase_Change_(c)^Qualification_Status
+::exam_file_Care_Type^Clinical_group^Indigenous_Status^Phase_of_Care_on_Phase_Change_(c)^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Indigenous Status</li>
+<li>Care Type</li>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Clinical group</li>
+<li>Qualification Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Total^Country_of_Birth_(SACC_code_set)^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Preferred_Language^Program_Identifier
+::exam_file_Contract_Leave_Days_Total^Country_of_Birth_(SACC_code_set)^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Preferred_Language^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Country of Birth (SACC code set)</li>
+<li>Program Identifier</li>
+<li>Preferred Language</li>
+<li>Contract Leave Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Mechanical_Ventilation_in_ICU^Intention_to_Re-Admit^Intention_to_Re-Admit^Locality^Separation_Date
+::exam_file_Duration_of_Mechanical_Ventilation_in_ICU^Intention_to_Re-Admit^Intention_to_Re-Admit^Locality^Separation_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Intention to Re-Admit</li>
+<li>Intention to Re-Admit</li>
+<li>Locality</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Separation Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Source^Date_of_Birth_Accuracy^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Funding_Arrangement^Phase_of_Care_Change_Date_(a)
+::exam_file_Admission_Source^Date_of_Birth_Accuracy^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Funding_Arrangement^Phase_of_Care_Change_Date_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Source</li>
+<li>Date of Birth Accuracy</li>
+<li>Funding Arrangement</li>
+<li>Phase of Care Change Date (a)</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Accommodation_Type_on_Separation_(b)^Contract_Type^Intended_Duration_of_Stay^Separation_Mode
+::exam_file_ACAS_Status^Accommodation_Type_on_Separation_(b)^Contract_Type^Intended_Duration_of_Stay^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type on Separation (b)</li>
+<li>Intended Duration of Stay</li>
+<li>Separation Mode</li>
+<li>Contract Type</li>
+<li>ACAS Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Carer_Availability^Duration_of_Mechanical_Ventilation_in_ICU^Leave_without_Permission_Days_Total^Patient_Days_Financial_Year-to-Date^Separation_Date
+::exam_file_Carer_Availability^Duration_of_Mechanical_Ventilation_in_ICU^Leave_without_Permission_Days_Total^Patient_Days_Financial_Year-to-Date^Separation_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Separation Date</li>
+<li>Leave without Permission Days Total</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Carer Availability</li>
+<li>Patient Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Final_Phase_of_Care_(b)^Medicare_Suffix^Mother’s_UR^Procedure_Codes
+::exam_file_Account_Class_(a)^Final_Phase_of_Care_(b)^Medicare_Suffix^Mother’s_UR^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mother’s UR</li>
+<li>Account Class (a)</li>
+<li>Final Phase of Care (b)</li>
+<li>Procedure Codes</li>
+<li>Medicare Suffix</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Patient_Identifier^Postcode^Procedure_Codes^RUG_ADL_on_Admission_(a)
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Patient_Identifier^Postcode^Procedure_Codes^RUG_ADL_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Postcode</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Patient Identifier</li>
+<li>RUG ADL on Admission (a)</li>
+<li>Procedure Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Care_Plan_Documented_Date^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Medicare_Suffix^Sex
+::exam_file_Campus_Code^Care_Plan_Documented_Date^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Medicare_Suffix^Sex::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Medicare Suffix</li>
+<li>Sex</li>
+<li>Campus Code</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Care Plan Documented Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Country_of_Birth_(SACC_code_set)^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Patient_Days_Total^Separation_Referral
+::exam_file_Account_Class_(a)^Country_of_Birth_(SACC_code_set)^Duration_of_Non-invasive_Ventilation_(NIV)_in_ICU^Patient_Days_Total^Separation_Referral::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Account Class (a)</li>
+<li>Duration of Non-invasive Ventilation (NIV) in ICU</li>
+<li>Country of Birth (SACC code set)</li>
+<li>Separation Referral</li>
+<li>Patient Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Contract_Role^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Postcode^Unique_Key
+::exam_file_Account_Class_(a)^Contract_Role^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Postcode^Unique_Key::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Role</li>
+<li>Postcode</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Account Class (a)</li>
+<li>Unique Key</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Advanced_Care_Plan_Alert^Hospital_Insurance_Status^Leave_with_Permission_Days_Month-to-Date^Marital_Status^Patient_Identifier
+::exam_file_Advanced_Care_Plan_Alert^Hospital_Insurance_Status^Leave_with_Permission_Days_Month-to-Date^Marital_Status^Patient_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Patient Identifier</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Marital Status</li>
+<li>Hospital Insurance Status</li>
+<li>Advanced Care Plan Alert</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Contract_Role^Contract_Type^Hospital_Generated_DRG^Intended_Duration_of_Stay
+::exam_file_Admission_Time^Contract_Role^Contract_Type^Hospital_Generated_DRG^Intended_Duration_of_Stay::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Role</li>
+<li>Contract Type</li>
+<li>Hospital Generated DRG</li>
+<li>Intended Duration of Stay</li>
+<li>Admission Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Accommodation_Type_(a)^Advanced_Care_Plan_Alert^Medicare_Number^Preferred_Language
+::exam_file_ACAS_Status^Accommodation_Type_(a)^Advanced_Care_Plan_Alert^Medicare_Number^Preferred_Language::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Medicare Number</li>
+<li>Accommodation Type (a)</li>
+<li>Preferred Language</li>
+<li>ACAS Status</li>
+<li>Advanced Care Plan Alert</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Campus_Code^Diagnosis_Codes^Leave_without_Permission_Days_Month-to-Date^Onset_Date^Patient_Days_Financial_Year-to-Date
+::exam_file_Campus_Code^Diagnosis_Codes^Leave_without_Permission_Days_Month-to-Date^Onset_Date^Patient_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Month-to-Date</li>
+<li>Campus Code</li>
+<li>Diagnosis Codes</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Onset Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Plan_Documented_Date^Given_Name(s)^Intention_to_Re-Admit^Mental_Health_State_Wide_Patient_Identifier^Transfer_Source
+::exam_file_Care_Plan_Documented_Date^Given_Name(s)^Intention_to_Re-Admit^Mental_Health_State_Wide_Patient_Identifier^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Intention to Re-Admit</li>
+<li>Care Plan Documented Date</li>
+<li>Given Name(s)</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Transfer Source</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_ACAS_Status^Account_Class_(a)^Carer_Availability^Indigenous_Status^Transfer_Source
+::exam_file_ACAS_Status^Account_Class_(a)^Carer_Availability^Indigenous_Status^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Carer Availability</li>
+<li>Indigenous Status</li>
+<li>ACAS Status</li>
+<li>Transfer Source</li>
+<li>Account Class (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Criterion_for_Admission^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Final_Phase_of_Care_(b)^Mental_Health_Legal_Status
+::exam_file_Account_Class_on_Separation_(b)^Criterion_for_Admission^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Final_Phase_of_Care_(b)^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Account Class on Separation (b)</li>
+<li>Final Phase of Care (b)</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+<li>Mental Health Legal Status</li>
+<li>Criterion for Admission</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Contract_Leave_Days_Total^Duration_of_Stay_in_Intensive_Care_Unit^Interpreter_Required^Qualification_Status
+::exam_file_Admission_Time^Contract_Leave_Days_Total^Duration_of_Stay_in_Intensive_Care_Unit^Interpreter_Required^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Qualification Status</li>
+<li>Interpreter Required</li>
+<li>Admission Time</li>
+<li>Contract Leave Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Plan_Documented_Date^Clinical_group^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Final_Phase_of_Care_(b)^Locality
+::exam_file_Care_Plan_Documented_Date^Clinical_group^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Final_Phase_of_Care_(b)^Locality::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Final Phase of Care (b)</li>
+<li>Locality</li>
+<li>Clinical group</li>
+<li>Care Plan Documented Date</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Contract_Type^Hospital_Insurance_Status^Leave_with_Permission_Days_Month-to-Date^RUG_ADL_on_Admission_(a)
+::exam_file_Admission_Date^Contract_Type^Hospital_Insurance_Status^Leave_with_Permission_Days_Month-to-Date^RUG_ADL_on_Admission_(a)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Date</li>
+<li>RUG ADL on Admission (a)</li>
+<li>Contract Type</li>
+<li>Hospital Insurance Status</li>
+<li>Leave with Permission Days Month-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Contract_Type^Duration_of_Stay_in_Intensive_Care_Unit^Patient_Identifier^Patient_Identifier
+::exam_file_Admission_Time^Contract_Type^Duration_of_Stay_in_Intensive_Care_Unit^Patient_Identifier^Patient_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Patient Identifier</li>
+<li>Admission Time</li>
+<li>Patient Identifier</li>
+<li>Contract Type</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_(a)^Date_of_Birth^Functional_Assessment_Date_on_Separation_(b)^Onset_Date^Patient_Days_Total
+::exam_file_Account_Class_(a)^Date_of_Birth^Functional_Assessment_Date_on_Separation_(b)^Onset_Date^Patient_Days_Total::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Account Class (a)</li>
+<li>Date of Birth</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Patient Days Total</li>
+<li>Onset Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Clinical_group^Contract_Leave_Days_Month-to-Date^Funding_Arrangement^Separation_Date^Transfer_Destination
+::exam_file_Clinical_group^Contract_Leave_Days_Month-to-Date^Funding_Arrangement^Separation_Date^Transfer_Destination::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Separation Date</li>
+<li>Transfer Destination</li>
+<li>Funding Arrangement</li>
+<li>Clinical group</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^FIM_Score_on_Admission_(a)^FIM_Score_on_Separation_(b)^Hospital_Generated_DRG^Phase_of_Care_on_Phase_Change_(c)
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^FIM_Score_on_Admission_(a)^FIM_Score_on_Separation_(b)^Hospital_Generated_DRG^Phase_of_Care_on_Phase_Change_(c)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Separation (b)</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>FIM Score on Admission (a)</li>
+<li>Hospital Generated DRG</li>
+<li>Phase of Care on Phase Change (c)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract/Spoke_Identifier^Date_of_Birth^Duration_of_Mechanical_Ventilation_in_ICU^Hospital_Generated_DRG^Impairment
+::exam_file_Contract/Spoke_Identifier^Date_of_Birth^Duration_of_Mechanical_Ventilation_in_ICU^Hospital_Generated_DRG^Impairment::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Duration of Mechanical Ventilation in ICU</li>
+<li>Hospital Generated DRG</li>
+<li>Contract/Spoke Identifier</li>
+<li>Impairment</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Final_Phase_of_Care_(b)^Indigenous_Status^Preferred_Language^Procedure_Codes
+::exam_file_Admission_Time^Final_Phase_of_Care_(b)^Indigenous_Status^Preferred_Language^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Preferred Language</li>
+<li>Indigenous Status</li>
+<li>Procedure Codes</li>
+<li>Admission Time</li>
+<li>Final Phase of Care (b)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Leave_without_Permission_Days_Total^Surname^Transfer_Source
+::exam_file_Accommodation_Type_on_Separation_(b)^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Leave_without_Permission_Days_Total^Surname^Transfer_Source::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type on Separation (b)</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Surname</li>
+<li>Leave without Permission Days Total</li>
+<li>Transfer Source</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_FIM_Score_on_Separation_(b)^Final_Phase_of_Care_(b)^Intention_to_Re-Admit^Medicare_Suffix^Mother’s_UR
+::exam_file_FIM_Score_on_Separation_(b)^Final_Phase_of_Care_(b)^Intention_to_Re-Admit^Medicare_Suffix^Mother’s_UR::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mother’s UR</li>
+<li>Intention to Re-Admit</li>
+<li>Final Phase of Care (b)</li>
+<li>FIM Score on Separation (b)</li>
+<li>Medicare Suffix</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Advanced_Care_Plan_Alert^Campus_Code^Mental_Health_Legal_Status^Patient_Days_Total^Qualification_Status
+::exam_file_Advanced_Care_Plan_Alert^Campus_Code^Mental_Health_Legal_Status^Patient_Days_Total^Qualification_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Mental Health Legal Status</li>
+<li>Qualification Status</li>
+<li>Campus Code</li>
+<li>Advanced Care Plan Alert</li>
+<li>Patient Days Total</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Leave_without_Permission_Days_Total^Mental_Health_State_Wide_Patient_Identifier^Procedure_Codes
+::exam_file_Accommodation_Type_(a)^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Leave_without_Permission_Days_Total^Mental_Health_State_Wide_Patient_Identifier^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+<li>Leave without Permission Days Total</li>
+<li>Accommodation Type (a)</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Procedure Codes</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Account_Class_on_Separation_(b)^Admission_Time^FIM_Score_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Onset_Date
+::exam_file_Account_Class_on_Separation_(b)^Admission_Time^FIM_Score_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Onset_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Time</li>
+<li>Onset Date</li>
+<li>Account Class on Separation (b)</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>FIM Score on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Care_Type^Clinical_group^Contract/Spoke_Identifier^Mental_Health_State_Wide_Patient_Identifier^Procedure_Codes
+::exam_file_Care_Type^Clinical_group^Contract/Spoke_Identifier^Mental_Health_State_Wide_Patient_Identifier^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Clinical group</li>
+<li>Care Type</li>
+<li>Contract/Spoke Identifier</li>
+<li>Procedure Codes</li>
+<li>Mental Health State Wide Patient Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Carer_Availability^Impairment^Intended_Duration_of_Stay^Marital_Status^Mental_Health_Legal_Status
+::exam_file_Carer_Availability^Impairment^Intended_Duration_of_Stay^Marital_Status^Mental_Health_Legal_Status::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Marital Status</li>
+<li>Intended Duration of Stay</li>
+<li>Impairment</li>
+<li>Carer Availability</li>
+<li>Mental Health Legal Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Diagnosis_Codes^Functional_Assessment_Date_on_Admission_(a)^Postcode^Separation_Date
+::exam_file_Admission_Date^Diagnosis_Codes^Functional_Assessment_Date_on_Admission_(a)^Postcode^Separation_Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Postcode</li>
+<li>Separation Date</li>
+<li>Diagnosis Codes</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Admission Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Source^Date_of_Birth^Functional_Assessment_Date_on_Separation_(b)^Leave_with_Permission_Days_Financial_Year-to-Date^Preferred_Language
+::exam_file_Admission_Source^Date_of_Birth^Functional_Assessment_Date_on_Separation_(b)^Leave_with_Permission_Days_Financial_Year-to-Date^Preferred_Language::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Admission Source</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Preferred Language</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Contract_Role^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Leave_with_Permission_Days_Month-to-Date^Patient_Days_Financial_Year-to-Date
+::exam_file_Accommodation_Type_on_Separation_(b)^Contract_Role^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_V-_DVA)^Leave_with_Permission_Days_Month-to-Date^Patient_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is V- DVA)</li>
+<li>Accommodation Type on Separation (b)</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Contract Role</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Weight^Clinical_group^Contract_Leave_Days_Month-to-Date^Criterion_for_Admission^Preferred_Language
+::exam_file_Admission_Weight^Clinical_group^Contract_Leave_Days_Month-to-Date^Criterion_for_Admission^Preferred_Language::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Criterion for Admission</li>
+<li>Preferred Language</li>
+<li>Admission Weight</li>
+<li>Clinical group</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_(a)^Campus_Code^Date_of_Birth_Accuracy^Medicare_Suffix^Postcode
+::exam_file_Accommodation_Type_(a)^Campus_Code^Date_of_Birth_Accuracy^Medicare_Suffix^Postcode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Campus Code</li>
+<li>Medicare Suffix</li>
+<li>Date of Birth Accuracy</li>
+<li>Postcode</li>
+<li>Accommodation Type (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^FIM_Score_on_Admission_(a)^Patient_Days_Financial_Year-to-Date^Patient_Days_Financial_Year-to-Date
+::exam_file_Admission_Time^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^FIM_Score_on_Admission_(a)^Patient_Days_Financial_Year-to-Date^Patient_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>FIM Score on Admission (a)</li>
+<li>Admission Time</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+<li>Patient Days Financial Year-to-Date</li>
+<li>Patient Days Financial Year-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Locality^Postcode^Program_Identifier^RUG_ADL_on_Admission_(a)^Separation_Time
+::exam_file_Locality^Postcode^Program_Identifier^RUG_ADL_on_Admission_(a)^Separation_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Program Identifier</li>
+<li>Locality</li>
+<li>RUG ADL on Admission (a)</li>
+<li>Separation Time</li>
+<li>Postcode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Date^Functional_Assessment_Date_on_Admission_(a)^Mental_Health_State_Wide_Patient_Identifier^Phase_of_Care_Change_Date_(a)^Phase_of_Care_on_Phase_Change_(c)
+::exam_file_Admission_Date^Functional_Assessment_Date_on_Admission_(a)^Mental_Health_State_Wide_Patient_Identifier^Phase_of_Care_Change_Date_(a)^Phase_of_Care_on_Phase_Change_(c)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Mental Health State Wide Patient Identifier</li>
+<li>Admission Date</li>
+<li>Phase of Care Change Date (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Criterion_for_Admission^Patient_Identifier^Phase_of_Care_Change_Date_(a)^Procedure_Start_Date_Time
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Criterion_for_Admission^Patient_Identifier^Phase_of_Care_Change_Date_(a)^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Patient Identifier</li>
+<li>Criterion for Admission</li>
+<li>Procedure Start Date Time</li>
+<li>Phase of Care Change Date (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Source^FIM_Score_on_Separation_(b)^Hospital_Insurance_Status^Postcode^Program_Identifier
+::exam_file_Admission_Source^FIM_Score_on_Separation_(b)^Hospital_Insurance_Status^Postcode^Program_Identifier::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Postcode</li>
+<li>FIM Score on Separation (b)</li>
+<li>Program Identifier</li>
+<li>Hospital Insurance Status</li>
+<li>Admission Source</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Weight^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Functional_Assessment_Date_on_Separation_(b)^Intention_to_Re-Admit^Phase_of_Care_on_Phase_Change_(c)
+::exam_file_Admission_Weight^DVA_ID_/_TAC_Claim_Number_(Where_Account_Class_is_T-_TAC)^Functional_Assessment_Date_on_Separation_(b)^Intention_to_Re-Admit^Phase_of_Care_on_Phase_Change_(c)::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Weight</li>
+<li>Phase of Care on Phase Change (c)</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Intention to Re-Admit</li>
+<li>DVA ID / TAC Claim Number (Where Account Class is T- TAC)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Type^Contract/Spoke_Identifier^Medicare_Suffix^Mother’s_UR^Surname
+::exam_file_Admission_Type^Contract/Spoke_Identifier^Medicare_Suffix^Mother’s_UR^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Type</li>
+<li>Contract/Spoke Identifier</li>
+<li>Medicare Suffix</li>
+<li>Mother’s UR</li>
+<li>Surname</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Criterion_for_Admission^Functional_Assessment_Date_on_Separation_(b)^Medicare_Number^Medicare_Suffix^Surname
+::exam_file_Criterion_for_Admission^Functional_Assessment_Date_on_Separation_(b)^Medicare_Number^Medicare_Suffix^Surname::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Medicare Suffix</li>
+<li>Criterion for Admission</li>
+<li>Medicare Number</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Surname</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Time^Date_of_Birth^Date_of_Birth_Accuracy^Mother’s_UR^Procedure_Start_Date_Time
+::exam_file_Admission_Time^Date_of_Birth^Date_of_Birth_Accuracy^Mother’s_UR^Procedure_Start_Date_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Procedure Start Date Time</li>
+<li>Date of Birth</li>
+<li>Mother’s UR</li>
+<li>Date of Birth Accuracy</li>
+<li>Admission Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Date_of_Birth^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Indigenous_Status^Postcode^Procedure_Codes
+::exam_file_Date_of_Birth^Duration_of_Stay_in_Cardiac/Coronary_Care_Unit^Indigenous_Status^Postcode^Procedure_Codes::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Date of Birth</li>
+<li>Indigenous Status</li>
+<li>Duration of Stay in Cardiac/Coronary Care Unit</li>
+<li>Procedure Codes</li>
+<li>Postcode</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract_Leave_Days_Financial_Year-to-Date^Contract_Type^Contract/Spoke_Identifier^Functional_Assessment_Date_on_Admission_(a)^Funding_Arrangement
+::exam_file_Contract_Leave_Days_Financial_Year-to-Date^Contract_Type^Contract/Spoke_Identifier^Functional_Assessment_Date_on_Admission_(a)^Funding_Arrangement::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Funding Arrangement</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Contract Leave Days Financial Year-to-Date</li>
+<li>Contract Type</li>
+<li>Contract/Spoke Identifier</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Accommodation_Type_on_Separation_(b)^Criterion_for_Admission^Leave_with_Permission_Days_Financial_Year-to-Date^Leave_with_Permission_Days_Month-to-Date^Medicare_Suffix
+::exam_file_Accommodation_Type_on_Separation_(b)^Criterion_for_Admission^Leave_with_Permission_Days_Financial_Year-to-Date^Leave_with_Permission_Days_Month-to-Date^Medicare_Suffix::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Accommodation Type on Separation (b)</li>
+<li>Leave with Permission Days Month-to-Date</li>
+<li>Leave with Permission Days Financial Year-to-Date</li>
+<li>Medicare Suffix</li>
+<li>Criterion for Admission</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Admission_Weight^Contract_Leave_Days_Month-to-Date^Functional_Assessment_Date_on_Admission_(a)^Leave_with_Permission_Days_Month-to-Date^Source_of_Referral_to_Palliative_Care
+::exam_file_Admission_Weight^Contract_Leave_Days_Month-to-Date^Functional_Assessment_Date_on_Admission_(a)^Leave_with_Permission_Days_Month-to-Date^Source_of_Referral_to_Palliative_Care::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Admission Weight</li>
+<li>Functional Assessment Date on Admission (a)</li>
+<li>Contract Leave Days Month-to-Date</li>
+<li>Source of Referral to Palliative Care</li>
+<li>Leave with Permission Days Month-to-Date</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Clinical_group^FIM_Score_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Intended_Duration_of_Stay^Medicare_Suffix
+::exam_file_Clinical_group^FIM_Score_on_Admission_(a)^Functional_Assessment_Date_on_Separation_(b)^Intended_Duration_of_Stay^Medicare_Suffix::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Intended Duration of Stay</li>
+<li>Functional Assessment Date on Separation (b)</li>
+<li>Medicare Suffix</li>
+<li>Clinical group</li>
+<li>FIM Score on Admission (a)</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Advanced_Care_Plan_Alert^Advanced_Care_Plan_Alert^Criterion_for_Admission^Intended_Duration_of_Stay^Leave_without_Permission_Days_Financial_Year-to-Date
+::exam_file_Advanced_Care_Plan_Alert^Advanced_Care_Plan_Alert^Criterion_for_Admission^Intended_Duration_of_Stay^Leave_without_Permission_Days_Financial_Year-to-Date::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Criterion for Admission</li>
+<li>Advanced Care Plan Alert</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Intended Duration of Stay</li>
+<li>Advanced Care Plan Alert</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Contract/Spoke_Identifier^Locality^Locality^Mental_Health_Legal_Status^Separation_Mode
+::exam_file_Contract/Spoke_Identifier^Locality^Locality^Mental_Health_Legal_Status^Separation_Mode::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Locality</li>
+<li>Locality</li>
+<li>Contract/Spoke Identifier</li>
+<li>Separation Mode</li>
+<li>Mental Health Legal Status</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Duration_of_Stay_in_Intensive_Care_Unit^Interpreter_Required^Leave_without_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Financial_Year-to-Date^Sex
+::exam_file_Duration_of_Stay_in_Intensive_Care_Unit^Interpreter_Required^Leave_without_Permission_Days_Financial_Year-to-Date^Leave_without_Permission_Days_Financial_Year-to-Date^Sex::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Duration of Stay in Intensive Care Unit</li>
+<li>Interpreter Required</li>
+<li>Leave without Permission Days Financial Year-to-Date</li>
+<li>Sex</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}
+
+
+
+$CATEGORY: $course$/top/Exam_Field
+
+// question_Final_Phase_of_Care_(b)^Intention_to_Re-Admit^Leave_without_Permission_Days_Total^Patient_Days_Total^Separation_Time
+::exam_file_Final_Phase_of_Care_(b)^Intention_to_Re-Admit^Leave_without_Permission_Days_Total^Patient_Days_Total^Separation_Time::  <p/><p/><h3>Informatics B final Exam - Field Assignment</h3>
+<hr><br><br>
+The following is a list of 5 fields that you have been assigned.
+Copy these fields into your Final Exam Questions Document.,
+and answer questions there related to this set of fields.<p/>
+<hr><br><br>
+<h3>Fields </h3>
+<ol>
+<li>Final Phase of Care (b)</li>
+<li>Intention to Re-Admit</li>
+<li>Leave without Permission Days Total</li>
+<li>Patient Days Total</li>
+<li>Separation Time</li>
+</ol>
+<hr><br><br>
+Did you copy your assigned fields to the Final Exam Questions Document?
+{=Yes
+#Good
+-No
+#You are going to want to do that
+}

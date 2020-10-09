@@ -19,20 +19,19 @@ read_pbs =  function( generation ) {
                    host = "himsql7.latrobe.edu.au", port = 5432,
                    user = "dewollershei-test", password = 'healthGuru' )
 
-  metformin <-paste0("
-  SELECT pin, supply_date, bnft_amt, pbs_item, sex, yob, drug_name, form_strength, atc_code, chronic_disease_category
+  metformin <-paste0('
+  SELECT pin, supply_date as "Supply Date", pbs_item,pbs_rgltn24_adjst_qty as "Quantity",  bnft_amt as "Gov Amount", ptnt_cntrbtn_amt as "Patient Amount", ptnt_state as "Patient State", sex, drug_name, form_strength, atc_code
   FROM pbs
   JOIN patient using (pin)
   JOIN pbs_item using (pbs_item)
   JOIN pbs_atc using (atc_code)
   JOIN chronic_disease using (chronic_disease_id)
-  WHERE pbs_item IN  ", drugs )
-
-  print(metformin)
+  WHERE pbs_item IN  ', drugs )
 
   dbGetQuery(con, metformin) %>%
     as_tibble() %>%
     { . } -> pbs
+
 
   dbDisconnect(con)
 
